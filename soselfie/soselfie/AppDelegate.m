@@ -18,6 +18,8 @@
     [self.window makeKeyAndVisible];
     NSLog (@"sweet little ponnies");
     
+    NSLog (@"COLLABORATION");
+    
     return YES;
 }
 
